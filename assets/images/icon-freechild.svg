@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="150.928" height="131.252" viewBox="0 0 150.928 131.252">
+  <defs>
+    <filter id="Union_1" x="39" y="0" width="111.928" height="121.369" filterUnits="userSpaceOnUse">
+      <feOffset input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="5" result="blur"/>
+      <feFlood flood-color="#fff7bc"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Union_2" x="0" y="24" width="93.503" height="100.652" filterUnits="userSpaceOnUse">
+      <feOffset input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="5" result="blur-2"/>
+      <feFlood flood-color="#fff7bc"/>
+      <feComposite operator="in" in2="blur-2"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Ellipse_31" x="22.916" y="58.145" width="73.106" height="73.107" filterUnits="userSpaceOnUse">
+      <feOffset input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="5" result="blur-3"/>
+      <feFlood flood-color="#ffd45f"/>
+      <feComposite operator="in" in2="blur-3"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Ellipse_32" x="37.42" y="72.649" width="44.099" height="44.1" filterUnits="userSpaceOnUse">
+      <feOffset input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="5" result="blur-4"/>
+      <feFlood flood-color="#fff96c"/>
+      <feComposite operator="in" in2="blur-4"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Group_2198" data-name="Group 2198" transform="translate(-1299.983 -783.751)">
+    <g transform="matrix(1, 0, 0, 1, 1299.98, 783.75)" filter="url(#Union_1)">
+      <path id="Union_1-2" data-name="Union 1" d="M-16164,1448.927c0-18.61,12.41-28.667,29.405-31.65A26,26,0,0,1-16149,1394a26,26,0,0,1,26-26,26,26,0,0,1,26,26,26,26,0,0,1-14.423,23.287c16.968,2.995,29.352,13.05,29.352,31.64,0,10.45-17.5,10.43-36.514,10.409-1.477,0-2.966,0-4.45,0-3.112.007-6.235.034-9.288.034C-16149.2,1459.37-16164,1458.545-16164,1448.927Z" transform="translate(16218 -1353)" fill="#023d7d"/>
+    </g>
+    <g transform="matrix(1, 0, 0, 1, 1299.98, 783.75)" filter="url(#Union_2)">
+      <path id="Union_2-2" data-name="Union 2" d="M-16132.25,1438.562c-1.809-.008-3.622,0-5.424.016-13.65.085-26.327.174-26.327-7.521,0-14.625,9.886-22.736,23.341-25.026A20,20,0,0,1-16152,1388a20,20,0,0,1,20-20,20,20,0,0,1,20,20,20,20,0,0,1-11.473,18.1c13.267,2.375,22.974,10.47,22.974,24.961,0,6.754-9.1,7.6-20.657,7.6C-16124.687,1438.653-16128.448,1438.574-16132.25,1438.562Z" transform="translate(16179 -1329)" fill="#023d7d"/>
+    </g>
+    <g id="Group_2178" data-name="Group 2178" transform="translate(429.641 653.422)">
+      <g id="Group_2176" data-name="Group 2176">
+        <g transform="matrix(1, 0, 0, 1, 870.34, 130.33)" filter="url(#Ellipse_31)">
+          <ellipse id="Ellipse_31-2" data-name="Ellipse 31" cx="7.05" cy="7.05" rx="7.05" ry="7.05" transform="translate(52.42 87.65)" fill="#fff9b1"/>
+        </g>
+        <g transform="matrix(1, 0, 0, 1, 870.34, 130.33)" filter="url(#Ellipse_32)">
+          <ellipse id="Ellipse_32-2" data-name="Ellipse 32" cx="7.05" cy="7.05" rx="7.05" ry="7.05" transform="translate(52.42 87.65)" fill="#fff"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

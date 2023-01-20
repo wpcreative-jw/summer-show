@@ -10,3 +10,268 @@ Version:  1.0
 License:  GNU General Public License v2 or later
 License URI: https://www.gnu.org/licenses/gpl-2.0.html                 
 */
+
+
+.darkblue {
+    color: #003C7C;
+    color: rgba(0,60,124,1);
+}
+
+.lightblue {
+    color: #0EBBEF;
+    color: rgba(14,187,239,1);
+}
+
+.pink {
+    color: #FC136B;
+    color: rgba(252,19,107,1);
+}
+
+.yellow {
+    color: #FFCE00;
+    color: rgba(255,206,0,1);
+}
+
+
+body,h1,h2,h3,h4,h5,p,ul {
+    color: #003C7C;
+}
+
+h2 {
+    border-bottom: 3px double #FFCE00;
+}
+
+a {
+    color: #003C7C;
+}
+
+.button {
+    background-color: #FFCE00;;
+}
+
+.black-opacity {
+    background-color: rgba(0,60,124,0.7);
+}
+
+.shadow {
+    box-shadow: -3px 3px 5px 1px rgb(0 60 124 / 30%);
+}
+
+.header-top {
+    background-color: #003C7C;
+}
+
+.header-bottom {
+    background-color: rgba(14,187,239,.8);
+}
+
+.header-bottom .menu .active>a, .header-bottom .menu .is-active>a {
+    color: #FFCE00;
+    border-bottom: 3px double #FFCE00;
+}
+
+.header-bottom a:hover {
+    color: #FFCE00;
+}
+
+.header-bottom ul li {
+    border-right: 1px solid #FFCE00;
+}
+
+.header-bottom .logo {
+    width: 125px;
+}
+
+.book-btn {
+    background-image: url(assets/images/ticket-btn.png);
+    color: #FFFFFF;
+}
+
+.header-bottom ul a.book-btn {
+    color: #FFFFFF;
+}
+
+.footer-ml {
+    background-image: url(assets/images/bg-sun-2.svg);
+}
+
+.footer-top {
+    background-image: url(assets/images/bg-sun-blue-1.svg);
+}
+
+.footer-top .footer-logo {
+    width: 250px;
+}
+
+.footer-bottom {
+    background-color: #003C7C;
+}
+
+.footer-ml .button {
+    background-color: #003C7C;
+    color: #FFFFFF;
+}
+
+.footer-ml .wpforms-container input[type=email], .footer-ml .wpforms-container input[type=text] {
+    border: 1px solid #003C7C;
+}
+
+.home-cta, .home-cta h3 {
+    background-color: #003C7C;
+}
+
+/*
+.performances .pwrap {
+    background-color: rgba(14,187,239,0.9);
+}
+*/
+.performances .pwrap ul{
+    color: #FFFFFF;
+}
+
+.hero-slider .slick-next {
+    background-image: url(assets/images/slider-arrow-right.png)!important;
+}
+
+.hero-slider .slick-prev {
+    background-image: url(assets/images/slider-arrow-left.png)!important;
+}
+
+.home-top {
+    background-image: url(assets/images/bg-sun-1.svg);
+}
+
+.home-intro p {
+    color: #fff;
+}
+
+.home-cta {
+    background-image: url(assets/images/bg-home-cta.png);
+}
+
+.home-intro {
+    background-image: url(assets/images/home-about.jpg);
+}
+
+.home-insta {
+    background-image:  url(assets/images/bg-stars-1.svg);
+}
+
+.about-top {
+    background-image: url(assets/images/bg-sun-blue-1.svg);
+}
+
+.about-top p {
+    color: #fff;
+}
+
+.ss-content {
+    background-image: url(assets/images/bg-sun-3.svg) !important;
+}
+
+.ss-content p {
+    font-size: 18px;
+}
+
+.about-performers {
+    background-image: url(assets/images/bg-stars-2.svg);
+}
+
+.performer {
+    background: rgb(0,60,124);
+    background: linear-gradient(0deg, rgba(0,60,124,1) 0%, rgba(14,187,239,1) 75%, rgba(0,60,124,1) 100%);
+}
+
+.performer h3 {
+    background-color: rgb(0,60,124);
+}
+
+.about-cta {
+    background-color: #003C7C;
+}
+
+.faqs h2:after {
+    background-image: url(assets/images/icon-faq.svg);
+}
+
+.faqs .accordion-title {
+    background-color: #FFF9DB;
+    color: #003C7C;
+}
+
+.blogs {
+    background-image: url(assets/images/bg-sun-blue-2.svg);
+}
+
+.blog-list-item h3 {
+    background: #0EBBEF;
+    background: linear-gradient(0deg,#0EBBEF,rgba(14,187,239,0));
+}
+
+.blog-list-content .button {
+    background-color: #FFCE00;
+}
+
+.blog-content {
+    background-image: url(assets/images/bg-sun-blue-2.svg);
+}
+
+.contact-top {
+    background-image: url(assets/images/bg-sun-blue-1.svg);
+}
+
+.contact-top p {
+    color: #FFFFFF;
+}
+
+.contact-form input {
+    border: 1px solid #FFCE00;
+    box-shadow: -3px 3px 5px 1px rgb(0 60 124 / 30%);
+}
+
+.contact-form textarea {
+    border: 1px solid #FFCE00;
+    box-shadow: -3px 3px 5px 1px rgb(0 60 124 / 30%);
+}
+
+.contact-bottom {
+    background: none;
+}
+
+.home-cta.ss-cta {
+    background-image: url(assets/images/bg-home-xmascta.jpg);
+}
+
+.home-cta.ss-cta h3 {
+    background-color: #221a05;
+}
+
+.ss-cta .logo {
+    margin-top: -160px;
+}
+
+.home-cta.ss-cta .button {
+    background-color: #fff;
+    color: #221a05;
+}
+
+.book-content {
+    background-image: url(assets/images/bg-tickets.jpg);
+}
+
+
+.off-canvas {
+    background: #003C7C;
+}
+
+@media screen and (max-width: 74.9375em) {
+    .mob-header .logo img {
+        width: 125px;
+    }
+    .mob-header {
+        background-color: rgba(14,187,239,.8);
+    }
+    .off-canvas .menu .active>a, .off-canvas .menu .is-active>a {
+        background: rgba(14,187,239,1);
+    }
+}
