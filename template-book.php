@@ -67,7 +67,7 @@ get_header(); ?>
                                 <div class="bulb-border bulb-bottom"></div>
                             </h3>
                             <div class="hcta-img">
-                                <img src="<?php bloginfo('template_url') ?>/assets/images/cta-summershow.jpg">
+                                <img src="<?php bloginfo('stylesheet_directory') ?>/assets/images/cta-xmasshow.jpg">
                             </div>
                             <a class="button" href="https://thechristmasshow.uk/" target="_blank">Visit Website</a>
                         </div>

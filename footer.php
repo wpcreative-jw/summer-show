@@ -70,15 +70,15 @@
 				<div class="medium-5 large-3 cell">
 					<h4>Contact	Us</h4>
 					<p class="footer-contact">
-						<a href="mailto:info@thechristmasshow.uk">info@thechristmasshow.uk</a><br>
+						<a href="mailto:info@thesummershow.uk">info@thesummershow.uk</a><br>
 						<a class="ftel" href="tel:01255433344">01255 43 33 44</a>
 					</p>
 				</div>
 
 				<div class="medium-4 large-4 cell large-text-right">
 					<h4>Find Us</h4>
-					<p>West Cliff Theatre, Clacton-on-Sea<br>
-						Tower Road, Clacton, CO15 1LE</p>
+					<p>West Cliff Theatre, Tower Road<br>
+						Clacton-on-Sea, CO15 1LE</p>
 				</div>
 
 			</div>

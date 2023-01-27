@@ -20,7 +20,7 @@
 
 				<div class="medium-6 cell">
 					<ul class="header-social menu align-right">
-						<li class="social-icon"><a href="https://www.facebook.com/summerchristmasshowsclacton" target="_blank"><img
+						<li class="social-icon"><a href="https://www.facebook.com/thescshowclacton" target="_blank"><img
 									src="<?php bloginfo('template_url') ?>/assets/images/social/social-facebook.png"></a>
 						</li>
 						<li class="social-icon"><a href="https://www.instagram.com/thescshowclacton/" target="_blank"><img

@@ -4,7 +4,7 @@
  */
 ?>
 <ul class="menu-social menu">
-    <li class="social-icon"><a href="https://www.facebook.com/summerchristmasshowsclacton"
+    <li class="social-icon"><a href="https://www.facebook.com/thescshowclacton"
             target="_blank"><img
                 src="<?php bloginfo('stylesheet_directory') ?>/assets/images/social/social-facebook-pink.png"></a>
     </li>

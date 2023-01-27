@@ -92,10 +92,12 @@ a {
 }
 
 .footer-ml {
+    background-color: #feeda4;
     background-image: url(assets/images/bg-sun-2.svg);
 }
 
 .footer-top {
+    background: #0EBBEF;
     background-image: url(assets/images/bg-sun-blue-1.svg);
 }
 
@@ -138,6 +140,7 @@ a {
 }
 
 .home-top {
+    background-color: #feeda4;
     background-image: url(assets/images/bg-sun-1.svg);
 }
 
@@ -158,6 +161,7 @@ a {
 }
 
 .about-top {
+    background: #0EBBEF;
     background-image: url(assets/images/bg-sun-blue-1.svg);
 }
 
@@ -174,6 +178,7 @@ a {
 }
 
 .about-performers {
+    background: #44bae5;
     background-image: url(assets/images/bg-stars-2.svg);
 }
 
@@ -200,6 +205,7 @@ a {
 }
 
 .blogs {
+    background: #89daf1;
     background-image: url(assets/images/bg-sun-blue-2.svg);
 }
 
@@ -217,6 +223,7 @@ a {
 }
 
 .contact-top {
+    background: #44bae5;
     background-image: url(assets/images/bg-sun-blue-1.svg);
 }
 

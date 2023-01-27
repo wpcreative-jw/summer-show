@@ -21,7 +21,7 @@ get_header(); ?>
                     </h3>
                    
                     <div class="hcta-img">
-                        <img src="<?php bloginfo('stylesheet_directory') ?>/assets/images/home-cta1.jpg">
+                        <img src="<?php bloginfo('stylesheet_directory') ?>/assets/images/home-cta-1.jpg">
                     </div>
                     <a class="button" href="/about/">Read More</a>
                 </div>
@@ -34,7 +34,7 @@ get_header(); ?>
                         <div class="bulb-border bulb-bottom"></div>
                     </h3>
                     <div class="hcta-img">
-                        <img src="<?php bloginfo('stylesheet_directory') ?>/assets/images/home-cta2.jpg">
+                        <img src="<?php bloginfo('stylesheet_directory') ?>/assets/images/home-cta-2.jpg">
                     </div>
                     <a class="button" href="/summer-in-clacton/">Read More</a>
                 </div>
@@ -47,7 +47,7 @@ get_header(); ?>
                         <div class="bulb-border bulb-bottom"></div>
                     </h3>
                     <div class="hcta-img">
-                        <img src="<?php bloginfo('stylesheet_directory') ?>/assets/images/home-cta3.jpg">
+                        <img src="<?php bloginfo('stylesheet_directory') ?>/assets/images/home-cta-3.jpg">
                     </div>
                     <a class="book-btn" href="/book-tickets/">Book Tickets</a>
                 </div>
