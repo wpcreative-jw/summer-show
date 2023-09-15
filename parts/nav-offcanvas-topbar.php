@@ -15,7 +15,7 @@
 			<div class="grid-x grid-padding-x">
 
 				<div class="medium-6 cell">
-					<a style="padding: 0; line-height: 50px; padding-bottom: 5px;">5TH - 26TH AUGUST 2023</a>
+					<a style="padding: 0; line-height: 50px; padding-bottom: 5px;">8TH - 24TH AUGUST 2024</a>
 				</div>
 
 				<div class="medium-6 cell">

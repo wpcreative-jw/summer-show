@@ -19,7 +19,7 @@ get_header(); ?>
                 </div>
 
                 <div class="spektrix-wrap">
-                    <iframe id="SpektrixIFrame" style="width: 100%; height: 1120px;" src="https://tickets.westcliffclacton.co.uk/westcliff/website/EventDetails.aspx?EventId=150704&amp;resize=true" name="SpektrixIFrame" width="320" height="240" frameborder="0"></iframe>                 
+                <iframe id="SpektrixIFrame" style="width: 100%; height: 1000px;" src="https://tickets.westcliffclacton.co.uk/westcliff/website/EventDetails.aspx?EventId=168904&amp;resize=true" name="SpektrixIFrame" width="320" height="240" frameborder="0"></iframe>               
                 </div>
 
                 <?php the_field( 'content_bottom' ); ?>
